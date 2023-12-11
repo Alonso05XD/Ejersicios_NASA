@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1702268672819" clover="3.2.0">
+  <project timestamp="1702268672819" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6" elements="33" coveredelements="33" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="C:\Users\Alonso\Downloads\NASA Proyect\javascript\main.js">
+      <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="32" type="stmt"/>
+      <line num="14" count="30" type="stmt"/>
+      <line num="18" count="30" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="45" count="18" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="66" count="2" type="stmt"/>
+      <line num="68" count="2" type="stmt"/>
+      <line num="70" count="26" type="stmt"/>
+      <line num="72" count="26" type="cond" truecount="2" falsecount="0"/>
+      <line num="74" count="18" type="stmt"/>
+      <line num="77" count="8" type="stmt"/>
+      <line num="82" count="8" type="stmt"/>
+      <line num="84" count="2" type="stmt"/>
+      <line num="88" count="1" type="stmt"/>
+      <line num="89" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
